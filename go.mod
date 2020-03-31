@@ -1,4 +1,4 @@
-module github.com/covid-19-ppe-tracker/hospital-module-kit
+module github.com/covid-19-ppe-tracker/hospital-supplier-module-kit
 
 go 1.14
 
